@@ -30,21 +30,21 @@ Your most complete and polished apps showcasing real-world skills.
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>NobatYar ⏰</h3>
       <p><i>Appointment booking web app built with Tailwind CSS and JavaScript. Responsive UI and smooth form handling.</i></p>
       <p>
         <a href="https://github.com/iliyat38/NobatYar-Appointment-Booking-Tailwind-JS" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Comment App 💬</h3>
       <p><i>Interactive comment system using Tailwind CSS & JS. Includes filters, animations, and real-time updates.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Comment-App-Tailwind-JS" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Word Counter ✍️</h3>
       <p><i>Minimal word and character counter made with JavaScript & Tailwind. Fast, responsive, and user-friendly.</i></p>
       <p>
@@ -60,21 +60,21 @@ Projects built while mastering frameworks, components, and UI logic.
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Pizza Counter 🍕</h3>
       <p><i>Responsive pizza counter app built with JavaScript & Tailwind. Includes limit system, premium unlock, and reset bot feature.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Pizza-counter" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
-      <h3>Restaurant SASS Project 🍽️</h3>
+    <td align="center" width="250">
+      <h3>Restaurant SASS 🍽️</h3>
       <p><i>Restaurant landing page created with HTML, CSS & SASS — responsive, animated, and includes a hamburger menu without JS.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Restaurant-SASS-Project" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Instagram Layout 📱</h3>
       <p><i>Pure HTML & CSS recreation of Instagram layout — fully responsive and clean.</i></p>
       <p>
@@ -83,14 +83,14 @@ Projects built while mastering frameworks, components, and UI logic.
     </td>
   </tr>
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Comment Grid 💬</h3>
       <p><i>Grid-based comment layout practice — focuses on alignment, spacing, and clean UI.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Comment-Grid" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Grid Layout 🧱</h3>
       <p><i>General responsive grid layout practice with focus on structure and symmetry.</i></p>
       <p>
@@ -105,21 +105,21 @@ Your first steps in front-end development — clean, simple, and creative.
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Login Page 🔐</h3>
       <p><i>My first login form made with HTML & CSS — clean and minimal design.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Login-Page" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Second Responsive Navbar 🧭</h3>
       <p><i>Second attempt at a responsive navbar with flexible layout and transitions.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Second-Responsive-Navbar" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>Rock Paper Scissors 🎮</h3>
       <p><i>My first JS game project — added random logic, scoring, and event handling.</i></p>
       <p>
@@ -128,14 +128,14 @@ Your first steps in front-end development — clean, simple, and creative.
     </td>
   </tr>
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>First Responsive Layout 🧩</h3>
       <p><i>First responsive HTML layout — built mobile-first with clean structure.</i></p>
       <p>
         <a href="https://github.com/iliyat38/First-Responsive-Layout" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <h3>First Navbar 🧭</h3>
       <p><i>My very first navigation bar — simple HTML & CSS structure.</i></p>
       <p>
