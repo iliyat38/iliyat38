@@ -113,7 +113,7 @@ Your first steps in front-end development — clean, simple, and creative.
       </p>
     </td>
     <td align="center" width="300">
-      <h3>Second Responsive Navbar 🧭</h3>
+      <h3>Second Responsive Navbar</h3>
       <p><i>Second attempt at a responsive navbar with flexible layout and transitions.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Second-Responsive-Navbar" target="_blank">🔗 View Repository</a>
