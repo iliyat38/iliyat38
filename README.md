@@ -26,7 +26,7 @@ I love building modern, responsive web apps — and analyzing the charts when th
 ---
 
 ## 🏆 Advanced Projects  
-Your most complete and polished apps showcasing real-world skills.
+most complete and polished apps showcasing real-world skills.
 
 <table align="center">
   <tr>
@@ -101,7 +101,7 @@ Projects built while mastering frameworks, components, and UI logic.
 </table>
 
 ## 🌱 Early Projects  
-Your first steps in front-end development — clean, simple, and creative.
+first steps in front-end development — clean, simple, and creative.
 
 <table align="center">
   <tr>
