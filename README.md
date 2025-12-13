@@ -29,7 +29,14 @@ I love building modern, responsive web apps — and analyzing the charts when th
 most complete and polished apps showcasing real-world skills.
 
 <table align="center">
-  <tr>
+ <tr>
+  <td align="center" width="300">
+    <h3>Remote Job App 💻🌍</h3>
+    <p><i>Modern remote job board built with Tailwind CSS and JavaScript, featuring dynamic job search, pagination, bookmarking, and optimized UX.</i></p>
+    <p>
+      <a href="https://github.com/iliyat38/Job-Remote-JS-Tailwind" target="_blank">🔗 View Repository</a>
+    </p>
+  </td>
     <td align="center" width="300">
       <h3>NobatYar ⏰</h3>
       <p><i>Appointment booking web app built with Tailwind CSS and JavaScript. Responsive UI and smooth form handling.</i></p>
@@ -44,6 +51,8 @@ most complete and polished apps showcasing real-world skills.
         <a href="https://github.com/iliyat38/Comment-App-Tailwind-JS" target="_blank">🔗 View Repository</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="300">
       <h3>Word Counter ✍️</h3>
       <p><i>Minimal word and character counter made with JavaScript & Tailwind. Fast, responsive, and user-friendly.</i></p>
