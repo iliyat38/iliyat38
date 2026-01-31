@@ -16,7 +16,7 @@ I love building modern, responsive web apps — and analyzing the charts when th
 
 ---
 
-- 🔭 I’m currently working on [**Find Remote Job Project**](https://github.com/iliyat38/Job-Remote-JS-Tailwind)
+- 🔭 I’m currently working on .........
 - 🌱 Currently learning **React & Tailwind Mastery**
 - 💡 Exploring how **tech and trading** blend together
 - 👨‍💻 All my projects live here → [GitHub Repositories](https://github.com/iliyat38?tab=repositories)
