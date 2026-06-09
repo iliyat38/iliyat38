@@ -16,8 +16,8 @@ I love building modern, responsive web apps — and analyzing the charts when th
 
 ---
 
-- 🔭 I’m currently working on .........
-- 🌱 Currently learning **React & Tailwind Mastery**
+- 🔭 I’m currently working on ....
+- 🌱 Currently learning **nextjs & axios**
 - 💡 Exploring how **tech and trading** blend together
 - 👨‍💻 All my projects live here → [GitHub Repositories](https://github.com/iliyat38?tab=repositories)
 - 📫 Reach me at **iliyataherkaram@gmail.com**
@@ -28,34 +28,52 @@ I love building modern, responsive web apps — and analyzing the charts when th
 ## 🏆 Advanced Projects  
 most complete and polished apps showcasing real-world skills.
 
+<p align="center">
+  <b>Most complete and polished apps showcasing real-world skills.</b>
+</p>
+
 <table align="center">
- <tr>
-  <td align="center" width="300">
-    <h3>Remote Job App 💻🌍</h3>
-    <p><i>Modern remote job board built with Tailwind CSS and JavaScript, featuring dynamic job search, pagination, bookmarking, and optimized UX.</i></p>
-    <p>
-      <a href="https://github.com/iliyat38/Job-Remote-JS-Tailwind" target="_blank">🔗 View Repository</a>
-    </p>
-  </td>
+  <tr>
+    <td align="center" width="300">
+      <h3>Next News 📰</h3>
+      <p><i>Advanced news platform built with Next.js App Router. Includes dynamic routing, route groups, parallel routes, intercepting routes, archive filtering, Axios integration, and scalable architecture.</i></p>
+      <p>
+        <a href="https://github.com/iliyat38/Next-News" target="_blank">🔗 View Repository</a>
+      </p>
+    </td>
+    <td align="center" width="300">
+      <h3>Next Foodies 🍔</h3>
+      <p><i>Full-stack recipe sharing platform built with Next.js. Features Server Components, Server Actions, dynamic routes, image uploads, database integration, and responsive UI.</i></p>
+      <p>
+        <a href="https://github.com/iliyat38/Next-Food" target="_blank">🔗 View Repository</a>
+      </p>
+    </td>
+    <td align="center" width="300">
+      <h3>Remote Job App 💻🌍</h3>
+      <p><i>Modern remote job board built with Tailwind CSS and JavaScript. Includes job search, pagination, bookmarking, and optimized UX.</i></p>
+      <p>
+        <a href="https://github.com/iliyat38/Job-Remote-JS-Tailwind" target="_blank">🔗 View Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="300">
       <h3>NobatYar ⏰</h3>
-      <p><i>Appointment booking web app built with Tailwind CSS and JavaScript. Responsive UI and smooth form handling.</i></p>
+      <p><i>Appointment booking web app built with Tailwind CSS and JavaScript. Responsive UI and smooth form handling experience.</i></p>
       <p>
         <a href="https://github.com/iliyat38/NobatYar-Appointment-Booking-Tailwind-JS" target="_blank">🔗 View Repository</a>
       </p>
     </td>
     <td align="center" width="300">
       <h3>Comment App 💬</h3>
-      <p><i>Interactive comment system using Tailwind CSS & JS. Includes filters, animations, and real-time updates.</i></p>
+      <p><i>Interactive comment system built with Tailwind CSS and JavaScript featuring filters, animations, and dynamic updates.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Comment-App-Tailwind-JS" target="_blank">🔗 View Repository</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="300">
       <h3>Word Counter ✍️</h3>
-      <p><i>Minimal word and character counter made with JavaScript & Tailwind. Fast, responsive, and user-friendly.</i></p>
+      <p><i>Minimal and fast word/character counter built with JavaScript and Tailwind CSS. Simple, responsive, and efficient.</i></p>
       <p>
         <a href="https://github.com/iliyat38/Word-Counter-Tailwind-JS" target="_blank">🔗 View Repository</a>
       </p>
